@@ -3,7 +3,7 @@ IPC paper repository, 2017
 
 Infection prevention and control (2017, Paper Repository)
 
-Permanent DOI: 
+Permanent DOI: https://zenodo.org/badge/latestdoi/111315348
 
 File "Epidmonitoring_Statistics.ipynb" contains python code for statistical analysis.
 
